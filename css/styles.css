@@ -186,6 +186,7 @@ h5 {
   top: 80px;
   margin-top: 40px;
   padding: 10px;
+  object-fit: cover;
 }
 .contacts-section-link {
   font-style: normal;
